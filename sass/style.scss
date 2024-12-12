@@ -1,0 +1,12 @@
+@use "./_base";
+@use "./_components";
+
+$background-clr: black;
+.pencil {
+  background-color: $background-clr;
+  font-size: 24px;
+  list-style: none;
+}
+
+body {
+}
